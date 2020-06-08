@@ -1,1 +1,1 @@
-# https://juanvaf.github.io/juan-curriculo-senai/
+# https://juanvaf.github.io/juan-curriculo-senai/curriculo
